@@ -16,8 +16,8 @@ while True:
            
 
     pygame.draw.rect(screen, (100, 100, 100), dino_rect)
-    pygame.draw.rect(------, (100, 100, 100), ---------)
-    pygame.draw.rect(------, (100, 100, 100), ---------)
+    pygame.draw.rect(------, (100, 100, 100), ---------)  # Replace the "--" in the code with the relevant information
+    pygame.draw.rect(------, (100, 100, 100), ---------)  # Replace the "--" in the code with the relevant information
 
     pygame.display.update()
     
